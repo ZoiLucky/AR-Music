@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main_menu.unity
+    guid: 3638d4663fde9b447bbdc2ccca918d54
+  - enabled: 1
+    path: Assets/Scenes/session_11.unity
+    guid: 4c279e352cd867f428db2a86f5620772
+  - enabled: 1
+    path: Assets/Scenes/session_13.unity
+    guid: bf1bfe40427700f478232e03fd543a1e
+  - enabled: 1
+    path: Assets/Scenes/session_18.unity
+    guid: 417dcdb10be777f449442dbb7c4a7533
+  - enabled: 1
+    path: Assets/Scenes/session_21.unity
+    guid: 9e5afdbab97d8cd4e9f377b75b358fcc
+  - enabled: 1
+    path: Assets/Scenes/session_22.unity
+    guid: e566eb5e27c275f4cb7325797dd4f0db
+  - enabled: 1
+    path: Assets/Scenes/scene_mouseio_mousikis.unity
+    guid: 4cad3adb50d1c1540a81fea733454ba0
+  - enabled: 1
+    path: Assets/Scenes/scene_akou_vres.unity
+    guid: 9d1f60e8767ca334e81c647c8d591700
+  - enabled: 1
+    path: Assets/Scenes/scene_metallofono.unity
+    guid: 07d99439881beb5438e3248fbecaaab0
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 89a6d18d3df8d3e4fa917b0f9a963bc0,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b96b171ec1c6f6244995c4c680134ff0,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
+      type: 2}

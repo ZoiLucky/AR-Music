@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Kefalaio22" size="2.000000 3.296703" />
+    <ImageTarget name="Kefalaio21" size="2.000000 2.704762" />
+    <ImageTarget name="Kefalaio18" size="2.000000 2.282609" />
+    <ImageTarget name="Kefalaio13" size="2.000000 1.957447" />
+    <ImageTarget name="Kefalaio11" size="2.000000 1.860465" />
+    <ImageTarget name="image2" size="3.000000 3.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fc6531b9bcd872243b78b32afcbb6cc5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GFS Artemisia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 19f9af9656f21f44fa0a50bb61db37ae, type: 3}
+  - {fileID: 12800000, guid: 485f06ef784b08e449789eebbac203d3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
